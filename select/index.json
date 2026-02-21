@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "踊れ！",
+  "base_artist": "スパノヴァ特急",
+  "createdAt": "2026-02-21T06:56:55.896571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "踊れ・どれ・ドラ・ドラえもん音頭",
+      "artist": "水田わさび",
+      "has_synced": false,
+      "path": "select/01_踊れ・どれ・ドラ・ドラえもん音頭_水田わさび.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "踊れ・どれ・ドラ ドラえもん音頭 - 2007",
+      "artist": "ドラっ子隊 feat. 水田わさび (ドラえもん) & Morinoki Children Choir",
+      "has_synced": false,
+      "path": "select/02_踊れ・どれ・ドラ_ドラえもん音頭_-_2007_ドラっ子隊_feat._水田わさび_(ドラえもん)_&_Morinoki_Children_Choir.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "踊れ!きゅーきょく哲学",
+      "artist": "上坂すみれ",
+      "has_synced": true,
+      "path": "select/03_踊れ!きゅーきょく哲学_上坂すみれ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "踊れ!きゅーきょく哲学",
+      "artist": "Uesaka, Sumire",
+      "has_synced": true,
+      "path": "select/04_踊れ!きゅーきょく哲学_Uesaka,_Sumire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "踊れ・どれ・ドラ ドラえもん音頭 2007",
+      "artist": "ドラっ子隊、水田わさび",
+      "has_synced": false,
+      "path": "select/05_踊れ・どれ・ドラ_ドラえもん音頭_2007_ドラっ子隊、水田わさび.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "踊れ!きゅーきょく哲学",
+      "artist": "上坂すみれ",
+      "has_synced": false,
+      "path": "select/06_踊れ!きゅーきょく哲学_上坂すみれ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "踊れ！きゅーきょく哲学",
+      "artist": "Sumire Uesaka",
+      "has_synced": false,
+      "path": "select/07_踊れ!きゅーきょく哲学_Sumire_Uesaka.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "踊れ・どれ・ドラ ドラえもん音頭 2017",
+      "artist": "ドラっ子隊、水田わさび",
+      "has_synced": true,
+      "path": "select/08_踊れ・どれ・ドラ_ドラえもん音頭_2017_ドラっ子隊、水田わさび.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "踊れ!きゅーきょく哲学",
+      "artist": "Sumire Uesaka",
+      "has_synced": false,
+      "path": "select/09_踊れ!きゅーきょく哲学_Sumire_Uesaka.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "踊れ・どれ・ドラ ドラえもん音頭 2007",
+      "artist": "ドラっ子隊、水田わさび",
+      "has_synced": true,
+      "path": "select/10_踊れ・どれ・ドラ_ドラえもん音頭_2007_ドラっ子隊、水田わさび.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "上坂すみれ「踊れ！きゅーきょく哲学」 Music Video",
+      "artist": "Sumire Uesaka",
+      "has_synced": true,
+      "path": "select/11_上坂すみれ「踊れ!きゅーきょく哲学」_Music_Video_Sumire_Uesaka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊れ!",
+      "artist": "スパノヴァ特急",
+      "has_synced": false,
+      "path": "select/pl_01_踊れ!_スパノヴァ特急.txt"
+    }
+  ]
+}
